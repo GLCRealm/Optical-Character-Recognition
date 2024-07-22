@@ -1,5 +1,5 @@
 # Optical-Character-Recognition
-OCR model for capital english alphabet using tessaract.
+OCR model for capital english alphabet using tesseract.
 Trained model is saved in form of pkl file.
 Used tessract to get characters from the written text.
 Works better on image with black background as provided in the test dataset file.
