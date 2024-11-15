@@ -66,6 +66,3 @@ Recognized text displayed in the GUI text box.
 
 ## Contributing
 Contributions are welcome! Fork the repository and submit pull requests for new features or bug fixes.
-
-## License
-This project is licensed under the MIT License.
